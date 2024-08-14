@@ -29,7 +29,7 @@ const About = () => {
                 experiences.
               </p>
               <p className='mt-4'>
-                Prior to that, I worked as a Junior Full-Stack Developer at Face
+                Prior to that, I worked as a Full-Stack Developer at Face
                 of Art Technologies, where I delved deep into CRM system
                 development. I also obtained Certified Ethical Hacker (CEH)
                 certificate from EC-Council.
